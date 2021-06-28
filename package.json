@@ -1,0 +1,17 @@
+{
+  "name": "travel-finder",
+  "version": "1.0.0",
+  "description": "Travel Notifier",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Ummenthala Anish <ummenthala.anish@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^13.0.1",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1"
+  }
+}

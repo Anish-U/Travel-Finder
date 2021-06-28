@@ -1,0 +1,8 @@
+body {
+  background-color: #deeeea;
+}
+
+.scroll {
+  overflow-y: scroll;
+  height: 300px;
+}
