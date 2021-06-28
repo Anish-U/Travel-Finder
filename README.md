@@ -1,3 +1,7 @@
+<p align="center">
+ <img width=200px src="https://raw.githubusercontent.com/Anish-U/Travel-Finder/master/assets/img/icon.png" alt="Instagram logo">
+</p>
+
 
 <h1 align="center">Travel Finder</h1>
 
