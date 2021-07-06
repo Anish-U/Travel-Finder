@@ -1,16 +1,17 @@
 {
   "name": "travel-finder",
   "version": "1.0.0",
-  "description": "Travel Notifier",
+  "description": "Travel Finder, a desktop app that helps you find flights...",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "electron ."
+    "start": "electron .",
+    "build": "electron-packager . --asar"
   },
   "author": "Ummenthala Anish <ummenthala.anish@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "electron": "^13.0.1",
+    "electron-packager": "^15.2.0",
     "moment": "^2.29.1",
     "node-fetch": "^2.6.1"
   }
