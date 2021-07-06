@@ -21,6 +21,8 @@ API key need to be provided in the environmental variables.
 API_KEY = P-Pl4CowZJRPRUHu......j1zaMEC [YOUR_API_KEY_HERE]
 ```
 
+----
+
 ## 💭 How it works
 
 As soon as the user types a airport or city name dropdown with all the suggestions are shown which is achieved by using an API [airport-autocomplete-js](https://www.npmjs.com/package/airport-autocomplete-js) .
@@ -32,6 +34,42 @@ If user inputs invalid details, we get an error message instead output.
 ```
       " Bad Input. Please try again... "
 ```
+
+----
+
+### 🛠 Installing
+
+#### 1. Retrieve the project (if you haven't done so already)
+
+```git
+ $ git clone git@github.com:Anish-U/Railway-Reservation.git
+```
+
+#### 2.Setup ENV Configurations
+
+- Go to project folder and create and .env file
+- Setup your configurations related to API_KEY.
+``` 
+  Eg: API_KEY = P-Pl4CowZJRPRUHu......j1zaMEC [YOUR_API_KEY_HERE].
+```
+
+#### 3.Run the following commands
+
+- Open CLI in the project folder and run.
+``` 
+npm install
+```
+- This will install all the dependencies required for the app.
+- To run the app in development mode
+```
+npm run start
+```
+- To build package along with .exe file
+```
+npm run build
+```
+
+----
 
 ## ⛏️ Built Using 
 
