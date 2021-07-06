@@ -42,7 +42,7 @@ If user inputs invalid details, we get an error message instead output.
 #### 1. Retrieve the project (if you haven't done so already)
 
 ```git
- $ git clone git@github.com:Anish-U/Railway-Reservation.git
+ $ git clone git@github.com:Anish-U/Travel-Finder.git
 ```
 
 #### 2.Setup ENV Configurations
