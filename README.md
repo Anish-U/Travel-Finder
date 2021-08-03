@@ -11,7 +11,7 @@
 
 ## 🧐 About
 
-This a Desktop App made using a JavaScript framework Electron JS. The Travel finder app helps you find different flight details between to airports on a desired date range.
+This a Desktop App made using a JavaScript framework Electron JS. The Travel finder app helps you find different flight details between airports on a desired date range.
 
 This app takes in departure and arrival details (airports and dates) and shows you the results of all the flights available with price details.
 
